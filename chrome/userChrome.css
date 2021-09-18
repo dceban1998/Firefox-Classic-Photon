@@ -23,6 +23,17 @@
   --tab-label-mask-size: 0 !important;
 }
 
+/* Add a gradient mask for the tab title */
+.tab-label-container {
+mask-image: linear-gradient(to left, transparent, black 2em) !important;
+}
+
+/* Hovering on "Close tab" button won't change the gradient mask width for tab title */
+.tabbrowser-tab:not(:hover) > .tab-stack > .tab-content > .tab-close-button {
+padding-inline-start: inherit !important;
+width: auto !important;
+}
+
 /* Disable tab label mask
  * Proton default value = 2em
  * This is a tweak. Photo does contain this mask.
