@@ -8,9 +8,6 @@ Please note that this CSS tweak doesn't remove or add any icons from Photon (exc
 ![Image of Yaktocat](https://github.com/dceban1998/Firefox-Classic-Photon/blob/main/Firefox%20Classic%20Photon%20-%20Default%20(Ink).png)
 #### Dark theme
 ![Image of Yaktocat](https://github.com/dceban1998/Firefox-Classic-Photon/blob/main/Firefox%20Classic%20Photon%20-%20Dark.png)
-#### Light theme
-![Image of Yaktocat](https://github.com/dceban1998/Firefox-Classic-Photon/blob/main/Firefox%20Classic%20Photon%20-%20Light.png)
-
 
 ### Installation guide
 1. Download the code from this repository. Extract the ZIP file
