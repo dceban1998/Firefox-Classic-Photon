@@ -4,5 +4,5 @@ Please note that this CSS tweak doesn't remove or add any icons from Photon (exc
 
 # Sources
 I used the code from other repositories and then just added some small tweaks to polish the design. 
-https://github.com/pellaeon/firefox-91plus-photon-userchrome
+https://github.com/pellaeon/firefox-91plus-photon-userchrome  
 https://github.com/MrOtherGuy/firefox-csshacks
