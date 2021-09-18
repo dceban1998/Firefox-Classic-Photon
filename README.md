@@ -1,6 +1,7 @@
 # Firefox-Classic-Photon
-This is a collection of some CSS files for restoring Firefox Photon tab-bar's design.  
+This is a collection of some CSS files for restoring Firefox Photon tab-bar's design. Works best with https://addons.mozilla.org/en-US/firefox/addon/photon-default-theme-ink/ but it seems to work fine even with the default light/dark themes.
 Please note that this CSS tweak doesn't remove or add any icons from Photon (except for the playing audio icon).
+
 
 ### Installation guide
 1. Download the code from this repository. Extract the ZIP file
